@@ -4,4 +4,4 @@ Enthusiastic software engineer, working primarily as backend developer and full-
 
 ---
 
-https://www.linkedin.com/in/ondrejfabry
+[![](https://img.shields.io/badge/LinkedIn-Ondrej%20Fabry-blue.svg)](https://www.linkedin.com/in/ondrejfabry)
